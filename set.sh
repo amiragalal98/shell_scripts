@@ -1,8 +1,9 @@
 #this show set commamnd
 set this is my first line
-echo $1
-echo $2
-echo $3
-echo $4
-echo $5
-echo "that is memory"
+               #output
+echo $1        #this
+echo $2        #is
+echo $3        #my
+echo $4        #first
+echo $5        #line 
+echo "that is memory"  #that is memory
